@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="faca_login">Faça login para continuar</string>
+    <string name="login">Login</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Senha</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="login_button">Login</string>
+    <string name="register_prompt">Registre-se já!</string>
+</resources>
