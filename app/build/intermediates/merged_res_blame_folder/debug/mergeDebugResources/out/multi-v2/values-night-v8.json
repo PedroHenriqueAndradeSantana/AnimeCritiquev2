@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-52:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/matheusandrade/.gradle/caches/8.13/transforms/f428156bb30151f97563498136e7641e/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                },
+                {
+                    "source": "/Users/matheusandrade/AndroidStudioProjects/MyApplication/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,276",
+                        "endLines": "5,6",
+                        "endColumns": "12,90",
+                        "endOffsets": "271,362"
+                    },
+                    "to": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "141,362",
+                        "endLines": "6,7",
+                        "endColumns": "12,89",
+                        "endOffsets": "357,447"
+                    }
+                }
+            ]
+        }
+    ]
+}

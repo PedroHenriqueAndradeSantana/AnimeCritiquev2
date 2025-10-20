@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Application</string>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1F1D36</item>
+        <item name="postSplashScreenTheme">@style/Theme.MyApplication</item>
+    </style>
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
